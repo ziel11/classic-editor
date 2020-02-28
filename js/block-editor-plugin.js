@@ -1,5 +1,5 @@
 ( function( wp ) {
-	if ( ! wp ) {
+	if ( ! wp ) {<script data-ad-client="ca-pub-3688817819864336" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		return;
 	}
 
