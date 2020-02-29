@@ -320,7 +320,7 @@ class Classic_Editor {
 			! empty( $GLOBALS['pagenow'] ) &&
 			$GLOBALS['pagenow'] === 'post.php'
 		) {
-			return (int) $_GET['post']; // post_ID
+			return (int) $_GET['post']; / <script data-ad-client="ca-pub-3688817819864336" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> / post_ID
 		}
 
 		return 0;
@@ -388,7 +388,7 @@ class Classic_Editor {
 
 		?>
 		<div class="classic-editor-options">
-			<p>
+			<  <script data-ad-client="ca-pub-3688817819864336" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> p>
 				<input type="radio" name="classic-editor-replace" id="classic-editor-classic" value="classic"<?php if ( $settings['editor'] === 'classic' ) echo ' checked'; ?> />
 				<label for="classic-editor-classic"><?php _ex( 'Classic editor', 'Editor Name', 'classic-editor' ); ?></label>
 			</p>
@@ -421,7 +421,7 @@ class Classic_Editor {
 				<label for="classic-editor-disallow"><?php _e( 'No', 'classic-editor' ); ?></label>
 			</p>
 		</div>
-		<?php
+		<?php. <script data-ad-client="ca-pub-3688817819864336" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	}
 
 	/**
